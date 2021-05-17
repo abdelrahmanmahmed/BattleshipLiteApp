@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{16C18585-CAA4-4611-93E2-4074274DE44A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BattleshipLiteLibrary/GameLogic.cs">
+    <Files>
+      <File FileName="BattleShipLite/Program.cs" Line="1" Column="1" />
+      <File FileName="BattleshipLiteLibrary/GameLogic.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BattleshipLiteApp" expanded="True">
+            <Node name="BattleShipLite" expanded="True" />
+            <Node name="BattleshipLiteLibrary" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="GameLogic.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BattleShipLite PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

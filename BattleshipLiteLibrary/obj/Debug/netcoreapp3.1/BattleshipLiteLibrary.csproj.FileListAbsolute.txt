@@ -1,0 +1,9 @@
+/Users/abdo/Desktop/Coding/C#/BattleshipLiteApp/BattleshipLiteLibrary/bin/Debug/netcoreapp3.1/BattleshipLiteLibrary.deps.json
+/Users/abdo/Desktop/Coding/C#/BattleshipLiteApp/BattleshipLiteLibrary/bin/Debug/netcoreapp3.1/BattleshipLiteLibrary.dll
+/Users/abdo/Desktop/Coding/C#/BattleshipLiteApp/BattleshipLiteLibrary/bin/Debug/netcoreapp3.1/BattleshipLiteLibrary.pdb
+/Users/abdo/Desktop/Coding/C#/BattleshipLiteApp/BattleshipLiteLibrary/obj/Debug/netcoreapp3.1/BattleshipLiteLibrary.csprojAssemblyReference.cache
+/Users/abdo/Desktop/Coding/C#/BattleshipLiteApp/BattleshipLiteLibrary/obj/Debug/netcoreapp3.1/BattleshipLiteLibrary.AssemblyInfoInputs.cache
+/Users/abdo/Desktop/Coding/C#/BattleshipLiteApp/BattleshipLiteLibrary/obj/Debug/netcoreapp3.1/BattleshipLiteLibrary.AssemblyInfo.cs
+/Users/abdo/Desktop/Coding/C#/BattleshipLiteApp/BattleshipLiteLibrary/obj/Debug/netcoreapp3.1/BattleshipLiteLibrary.csproj.CoreCompileInputs.cache
+/Users/abdo/Desktop/Coding/C#/BattleshipLiteApp/BattleshipLiteLibrary/obj/Debug/netcoreapp3.1/BattleshipLiteLibrary.dll
+/Users/abdo/Desktop/Coding/C#/BattleshipLiteApp/BattleshipLiteLibrary/obj/Debug/netcoreapp3.1/BattleshipLiteLibrary.pdb
